@@ -1,5 +1,6 @@
 # 50+ AWS Services Unleashed: Cloud Chaos Conquered with a Chuckle!
 
+
 <p align="center">
   <img src="https://github.com/KenanGain/50-AWS-Services/blob/main/aws-aws-meme.gif" alt="AWS Burn Money Meme">
 </p>
@@ -9,10 +10,11 @@
 
 Buckle up for a wild ride through AWS’s galaxy of services! From robot wranglers to quantum questers, here’s your snappy guide to 50+ AWS tools, complete with what they do, why they’re awesome, where they shine, and how to get started—plus links to dive deeper. Let’s tame the cloud beast!
 
+
+
 <p align="center">
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="200"/>
 </p>
-
 
 ## 1. AWS CloudFront Origin
 
