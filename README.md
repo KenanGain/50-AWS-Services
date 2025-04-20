@@ -17,6 +17,17 @@ Buckle up for a wild ride through AWS’s galaxy of services! From robot wrangle
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/KenanGain/50-AWS-Services/blob/main/README.md">
+    <img src="https://komarev.com/ghpvc/?username=KenanGain&label=README+Views&color=blue&style=flat-square" alt="README views"/>
+  </a>
+  <a href="https://github.com/KenanGain/50-AWS-Services/stargazers">
+    <img src="https://img.shields.io/github/stars/KenanGain/50-AWS-Services?style=flat-square" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/KenanGain/50-AWS-Services/fork">
+    <img src="https://img.shields.io/github/forks/KenanGain/50-AWS-Services?style=flat-square" alt="GitHub Forks"/>
+  </a>
+</p>
 ## 1. AWS CloudFront Origin
 
 - **Definition**: The source (e.g., S3 bucket, EC2, HTTP server) that CloudFront fetches content from to cache and distribute globally.
