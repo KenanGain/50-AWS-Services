@@ -1,6 +1,9 @@
 # 50+ AWS Services Unleashed: Cloud Chaos Conquered with a Chuckle!
 
-<img src="https://github.com/KenanGain/50-AWS-Services/blob/main/aws-aws-meme.gif" alt="AWS Burn Money Meme">
+<p align="center">
+  <img src="https://github.com/KenanGain/50-AWS-Services/blob/main/aws-aws-meme.gif" alt="AWS Burn Money Meme">
+</p>
+
 
 
 
