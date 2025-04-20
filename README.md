@@ -18,9 +18,9 @@ Buckle up for a wild ride through AWS’s galaxy of services! From robot wrangle
 
 
 <p align="center">
-  <a href="https://github.com/KenanGain/50-AWS-Services/blob/main/README.md">
-    <img src="https://komarev.com/ghpvc/?username=KenanGain&label=README+Views&color=blue&style=flat-square" alt="README views"/>
-  </a>
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KenanGain&repo=50-AWS-Services&label=Repo+Views&color=brightgreen" alt="Repo Views">
+</p>
   <a href="https://github.com/KenanGain/50-AWS-Services/stargazers">
     <img src="https://img.shields.io/github/stars/KenanGain/50-AWS-Services?style=flat-square" alt="GitHub Stars"/>
   </a>
