@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="200"/>
+  <img src="https://github.com/KenanGain/50-AWS-Services/blob/main/image%20(11).jpg" alt="AWS Logo" width="200"/>
 </p>
 
 
