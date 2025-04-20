@@ -1,6 +1,6 @@
 # 50+ AWS Services Unleashed: Cloud Chaos Conquered with a Chuckle!
 
-![AWS Burn Money Meme](https://tenor.com/view/aws-aws-meme-aws-burn-money-gif-15775324041711530961)
+<img src="https://tenor.com/view/aws-aws-meme-aws-burn-money-gif-15775324041711530961" alt="AWS Burn Money Meme">
 
 
 
